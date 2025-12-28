@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Campus mode!!",
   "base_artist": "初星学園",
-  "createdAt": "2025-12-23T04:28:10.748566Z",
+  "createdAt": "2025-12-28T05:20:51.543489Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,14 @@
       "artist": "初星学園",
       "has_synced": false,
       "path": "select/14_Campus_mode!!_[月村手毬_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Campus mode!! [葛城リーリヤ Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/15_Campus_mode!!_[葛城リーリヤ_Solo_ver.]_初星学園.txt"
     },
     {
       "id": "petitlyrics_1",
